@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ItsDebol/ItsDebol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Data engineering and Machine Learning projects.
  
 - 🌱 I’m currently learning Django ORM, Code Obfuscation on Flutter and appraoching leet code challanges

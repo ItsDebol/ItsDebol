@@ -1,4 +1,4 @@
-### Hi there 👋 This is Yosef E. Emiru and welcome to my Github profile. 
+### Hi there 👋  Welcome to my Github . 
 
 - 🔭 I’m currently working on Data engineering and Machine Learning projects.
  

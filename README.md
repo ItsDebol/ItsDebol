@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Data analytics and  Data Engineering
 
-- 📫 How to reach me: ... email josephnewgold1@gmail.com   Portfolio website https://sites.google.com/view/10-academy-profile-yosef-engda/home Linkedin https://www.linkedin.com/in/yosef-engdawork-a66a041a0/
+- 📫 How to reach me: ... email josephnewgold1@gmail.com   Linkedin https://www.linkedin.com/in/yosef-engdawork-a66a041a0/
 
 - 😄 Pronouns: He/him 
 

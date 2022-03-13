@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Data engineering and Machine Learning projects.
  
-- 🌱 I’m currently learning Django ORM, Code Obfuscation on Flutter and appraoching leet code challanges
+- 🌱 I’m currently learning Django ORM, leet code challanges and web3
  
 - 👯 I’m looking to collaborate on open source projects
 

@@ -12,6 +12,6 @@
 
 - 😄 Pronouns: He/him 
 
-- ⚡ Fun fact: ... I am usually found playing football apart from the time I am working.
+- ⚡ Fun fact: ... I am usually found playing football apart from my working hours
 
 

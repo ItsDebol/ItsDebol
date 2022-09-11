@@ -1,12 +1,12 @@
 ###  👋  Welcome to my Github . 
 
-- 🔭 I have a hands on experiance in Data engineering and Machine Learning
+- 🔭 Experiance working on Data engineering and using Machine Learning Algorithms 
  
-- 🌱 Currently working as a Data scientist 
+- 🌱 Currently working as a Data Scientist at an outsourcing firm.
  
 - 👯 Looking to collaborate on open source projects
 
-- 💬 Ask me about Data Analytics and  Data Engineering
+- 💬 Ask me anything about Data Manipulation and Engineering 
 
 - 📫 How to reach me: ... email josephnewgold1@gmail.com   Linkedin https://www.linkedin.com/in/yosef-engdawork-a66a041a0/
 
